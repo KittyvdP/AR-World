@@ -13,14 +13,25 @@ public class WaterGenerator : MonoBehaviour
     public int xSize = 20;
     public int zSize = 20;
 
+    //public GameObject Bottom;
+    //private Vector3[] bottomVertices;
+    //private int[] bottomTriangles;
+    //private Vector2[] bottomUvs;
+    //private Mesh bottomMesh;
+
     // Start is called before the first frame update
     void Start()
     {
         mesh = new Mesh();
-        mesh = GetComponent<MeshFilter>().mesh = mesh;
+        //bottomMesh = new Mesh();
+        GetComponent<MeshFilter>().mesh = mesh;
+        //Bottom.GetComponent<MeshFilter>().mesh = bottomMesh;
 
         CreateShape();
         UpdateMesh();
+        
+        //CreateBottom();
+
         CorrectPosition();
     }
 
@@ -28,6 +39,29 @@ public class WaterGenerator : MonoBehaviour
     {
         transform.position = new Vector3(-(xSize / 2), transform.position.y, -(zSize / 2));
     }
+
+    //private void CreateBottom()
+    //{
+    //    bottomVertices = new Vector3[]
+    //    {
+    //        new Vector3(0, 0, 0),
+    //        new Vector3(0, 0, zSize),
+    //        new Vector3(xSize, 0, 0),
+    //        new Vector3(xSize, 0, zSize)
+    //    };
+
+    //    bottomTriangles = new int[]
+    //    {
+    //        0, 1, 2,
+    //        1, 3, 2
+    //    };
+
+    //    bottomMesh.Clear();
+    //    bottomMesh.vertices = bottomVertices;
+    //    bottomMesh.triangles = bottomTriangles;
+        
+    //    bottomMesh.RecalculateNormals();
+    //}
 
     private void CreateShape()
     {

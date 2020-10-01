@@ -27,9 +27,9 @@ Material:
     - Vector1_CB8B1256: 8
     - Vector1_CD049AC3: 75
     - Vector1_D50F7507: 200
-    - Vector1_E001C4B9: 0.8
+    - Vector1_E001C4B9: 1
     m_Colors:
-    - Color_18D150A4: {r: 0, g: 0.6701975, b: 1, a: 0}
+    - Color_18D150A4: {r: 0, g: 0.74093866, b: 1, a: 0}
     - Color_89E3528C: {r: 0.44409615, g: 0.8608429, b: 1.4944187, a: 0}
     - Color_C7776D86: {r: 1, g: 1, b: 1, a: 0}
   m_BuildTextureStacks: []
