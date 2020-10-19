@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: CartoonWater
-  m_Shader: {fileID: -6465566751694194690, guid: 6a3ad3aa07af12342bce46b81e7b47ff, type: 3}
+  m_Name: SimpleToon
+  m_Shader: {fileID: -6465566751694194690, guid: 20d9a4eb78747400289b8a254c19711a, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -20,16 +20,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs: []
     m_Floats:
-    - Vector1_1B2A7498: 1
-    - Vector1_37E8AE66: 0.5
-    - Vector1_AB05D60E: 5
-    - Vector1_C6C1E205: 0.6
-    - Vector1_CB8B1256: 5
-    - Vector1_CD049AC3: 75
-    - Vector1_D50F7507: 100
-    - Vector1_E001C4B9: 0.8
+    - _Smoothness: 0.4
     m_Colors:
-    - Color_18D150A4: {r: 0, g: 0.6156863, b: 1, a: 1}
-    - Color_89E3528C: {r: 0.34901962, g: 0.7490196, b: 1, a: 0}
-    - Color_C7776D86: {r: 1, g: 1, b: 1, a: 0}
+    - _Specular: {r: 0.11446441, g: 0.9716981, b: 0, a: 0}
   m_BuildTextureStacks: []
