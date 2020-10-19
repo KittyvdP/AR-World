@@ -243,6 +243,10 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3117095148295561308, guid: ab34e4c350b5b634e944d18ce310ec3b, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: b2ddee070f397bf4498a1cdf3ccc577b, type: 2}
     - target: {fileID: 3710670912749704320, guid: ab34e4c350b5b634e944d18ce310ec3b, type: 3}
       propertyPath: m_Name
       value: ForestEmptyCube (25)
@@ -316,6 +320,10 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3117095148295561308, guid: ab34e4c350b5b634e944d18ce310ec3b, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: b2ddee070f397bf4498a1cdf3ccc577b, type: 2}
     - target: {fileID: 3710670912749704320, guid: ab34e4c350b5b634e944d18ce310ec3b, type: 3}
       propertyPath: m_Name
       value: ForestEmptyCube (4)
@@ -333,6 +341,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 168776604}
     m_Modifications:
+    - target: {fileID: 877769321250787496, guid: 6f59c1996fe1647439ef5e357585fa9e, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: b2ddee070f397bf4498a1cdf3ccc577b, type: 2}
     - target: {fileID: 1446394905150727284, guid: 6f59c1996fe1647439ef5e357585fa9e, type: 3}
       propertyPath: m_Name
       value: ForestTreeSpruce_03 (2)
@@ -516,6 +528,10 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3117095148295561308, guid: ab34e4c350b5b634e944d18ce310ec3b, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: b2ddee070f397bf4498a1cdf3ccc577b, type: 2}
     - target: {fileID: 3710670912749704320, guid: ab34e4c350b5b634e944d18ce310ec3b, type: 3}
       propertyPath: m_Name
       value: ForestEmptyCube (5)
@@ -589,6 +605,10 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3117095148295561308, guid: ab34e4c350b5b634e944d18ce310ec3b, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: b2ddee070f397bf4498a1cdf3ccc577b, type: 2}
     - target: {fileID: 3710670912749704320, guid: ab34e4c350b5b634e944d18ce310ec3b, type: 3}
       propertyPath: m_Name
       value: ForestEmptyCube (1)
@@ -671,6 +691,10 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3117095148295561308, guid: ab34e4c350b5b634e944d18ce310ec3b, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: b2ddee070f397bf4498a1cdf3ccc577b, type: 2}
     - target: {fileID: 3710670912749704320, guid: ab34e4c350b5b634e944d18ce310ec3b, type: 3}
       propertyPath: m_Name
       value: ForestEmptyCube (18)
@@ -818,6 +842,10 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3117095148295561308, guid: ab34e4c350b5b634e944d18ce310ec3b, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: b2ddee070f397bf4498a1cdf3ccc577b, type: 2}
     - target: {fileID: 3710670912749704320, guid: ab34e4c350b5b634e944d18ce310ec3b, type: 3}
       propertyPath: m_Name
       value: ForestEmptyCube (19)
@@ -895,6 +923,10 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3117095148295561308, guid: ab34e4c350b5b634e944d18ce310ec3b, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: b2ddee070f397bf4498a1cdf3ccc577b, type: 2}
     - target: {fileID: 3710670912749704320, guid: ab34e4c350b5b634e944d18ce310ec3b, type: 3}
       propertyPath: m_Name
       value: ForestEmptyCube (14)
@@ -977,6 +1009,10 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3117095148295561308, guid: ab34e4c350b5b634e944d18ce310ec3b, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: b2ddee070f397bf4498a1cdf3ccc577b, type: 2}
     - target: {fileID: 3710670912749704320, guid: ab34e4c350b5b634e944d18ce310ec3b, type: 3}
       propertyPath: m_Name
       value: ForestEmptyCube (28)
@@ -1055,6 +1091,10 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3117095148295561308, guid: ab34e4c350b5b634e944d18ce310ec3b, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: b2ddee070f397bf4498a1cdf3ccc577b, type: 2}
     - target: {fileID: 3710670912749704320, guid: ab34e4c350b5b634e944d18ce310ec3b, type: 3}
       propertyPath: m_Name
       value: ForestEmptyCube (3)
@@ -1267,6 +1307,10 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3117095148295561308, guid: ab34e4c350b5b634e944d18ce310ec3b, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: b2ddee070f397bf4498a1cdf3ccc577b, type: 2}
     - target: {fileID: 3710670912749704320, guid: ab34e4c350b5b634e944d18ce310ec3b, type: 3}
       propertyPath: m_Name
       value: ForestEmptyCube (10)
@@ -1340,6 +1384,10 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3117095148295561308, guid: ab34e4c350b5b634e944d18ce310ec3b, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: b2ddee070f397bf4498a1cdf3ccc577b, type: 2}
     - target: {fileID: 3710670912749704320, guid: ab34e4c350b5b634e944d18ce310ec3b, type: 3}
       propertyPath: m_Name
       value: ForestEmptyCube (29)
@@ -1418,6 +1466,10 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3117095148295561308, guid: ab34e4c350b5b634e944d18ce310ec3b, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: b2ddee070f397bf4498a1cdf3ccc577b, type: 2}
     - target: {fileID: 3710670912749704320, guid: ab34e4c350b5b634e944d18ce310ec3b, type: 3}
       propertyPath: m_Name
       value: ForestEmptyCube (20)
@@ -1495,6 +1547,10 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3117095148295561308, guid: ab34e4c350b5b634e944d18ce310ec3b, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: b2ddee070f397bf4498a1cdf3ccc577b, type: 2}
     - target: {fileID: 3710670912749704320, guid: ab34e4c350b5b634e944d18ce310ec3b, type: 3}
       propertyPath: m_Name
       value: ForestEmptyCube (16)
@@ -1568,6 +1624,10 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3117095148295561308, guid: ab34e4c350b5b634e944d18ce310ec3b, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: b2ddee070f397bf4498a1cdf3ccc577b, type: 2}
     - target: {fileID: 3710670912749704320, guid: ab34e4c350b5b634e944d18ce310ec3b, type: 3}
       propertyPath: m_Name
       value: ForestEmptyCube (27)
@@ -1641,6 +1701,10 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3117095148295561308, guid: ab34e4c350b5b634e944d18ce310ec3b, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: b2ddee070f397bf4498a1cdf3ccc577b, type: 2}
     - target: {fileID: 3710670912749704320, guid: ab34e4c350b5b634e944d18ce310ec3b, type: 3}
       propertyPath: m_Name
       value: ForestEmptyCube (21)
@@ -1711,6 +1775,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2331258, guid: 4436f5b141ae4074082424c09570acb3, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d31dfc64b0eb9e14781abbb85687bc1b, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4436f5b141ae4074082424c09570acb3, type: 3}
 --- !u!1001 &1062965097
@@ -1776,6 +1844,10 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3117095148295561308, guid: ab34e4c350b5b634e944d18ce310ec3b, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: b2ddee070f397bf4498a1cdf3ccc577b, type: 2}
     - target: {fileID: 3710670912749704320, guid: ab34e4c350b5b634e944d18ce310ec3b, type: 3}
       propertyPath: m_Name
       value: ForestEmptyCube (12)
@@ -1867,6 +1939,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 168776604}
     m_Modifications:
+    - target: {fileID: 877769321250787496, guid: 6f59c1996fe1647439ef5e357585fa9e, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: b2ddee070f397bf4498a1cdf3ccc577b, type: 2}
     - target: {fileID: 1446394905150727284, guid: 6f59c1996fe1647439ef5e357585fa9e, type: 3}
       propertyPath: m_Name
       value: ForestTreeSpruce_03 (1)
@@ -2065,6 +2141,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2342844, guid: 6a67aaef2f6b30443ac78ea7d762a346, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d31dfc64b0eb9e14781abbb85687bc1b, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6a67aaef2f6b30443ac78ea7d762a346, type: 3}
 --- !u!1001 &1262106411
@@ -2130,6 +2210,10 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3117095148295561308, guid: ab34e4c350b5b634e944d18ce310ec3b, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: b2ddee070f397bf4498a1cdf3ccc577b, type: 2}
     - target: {fileID: 3710670912749704320, guid: ab34e4c350b5b634e944d18ce310ec3b, type: 3}
       propertyPath: m_Name
       value: ForestEmptyCube (15)
@@ -2299,6 +2383,10 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3117095148295561308, guid: ab34e4c350b5b634e944d18ce310ec3b, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: b2ddee070f397bf4498a1cdf3ccc577b, type: 2}
     - target: {fileID: 3710670912749704320, guid: ab34e4c350b5b634e944d18ce310ec3b, type: 3}
       propertyPath: m_Name
       value: ForestEmptyCube (6)
@@ -2381,6 +2469,10 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3117095148295561308, guid: ab34e4c350b5b634e944d18ce310ec3b, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: b2ddee070f397bf4498a1cdf3ccc577b, type: 2}
     - target: {fileID: 3710670912749704320, guid: ab34e4c350b5b634e944d18ce310ec3b, type: 3}
       propertyPath: m_Name
       value: ForestEmptyCube (8)
@@ -2530,6 +2622,10 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3117095148295561308, guid: ab34e4c350b5b634e944d18ce310ec3b, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: b2ddee070f397bf4498a1cdf3ccc577b, type: 2}
     - target: {fileID: 3710670912749704320, guid: ab34e4c350b5b634e944d18ce310ec3b, type: 3}
       propertyPath: m_Name
       value: ForestEmptyCube (22)
@@ -2607,6 +2703,10 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3117095148295561308, guid: ab34e4c350b5b634e944d18ce310ec3b, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: b2ddee070f397bf4498a1cdf3ccc577b, type: 2}
     - target: {fileID: 3710670912749704320, guid: ab34e4c350b5b634e944d18ce310ec3b, type: 3}
       propertyPath: m_Name
       value: ForestEmptyCube (17)
@@ -2705,6 +2805,10 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3117095148295561308, guid: ab34e4c350b5b634e944d18ce310ec3b, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: b2ddee070f397bf4498a1cdf3ccc577b, type: 2}
     - target: {fileID: 3710670912749704320, guid: ab34e4c350b5b634e944d18ce310ec3b, type: 3}
       propertyPath: m_Name
       value: ForestEmptyCube (13)
@@ -2778,6 +2882,10 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3117095148295561308, guid: ab34e4c350b5b634e944d18ce310ec3b, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: b2ddee070f397bf4498a1cdf3ccc577b, type: 2}
     - target: {fileID: 3710670912749704320, guid: ab34e4c350b5b634e944d18ce310ec3b, type: 3}
       propertyPath: m_Name
       value: ForestEmptyCube (23)
@@ -2860,6 +2968,10 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3117095148295561308, guid: ab34e4c350b5b634e944d18ce310ec3b, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: b2ddee070f397bf4498a1cdf3ccc577b, type: 2}
     - target: {fileID: 3710670912749704320, guid: ab34e4c350b5b634e944d18ce310ec3b, type: 3}
       propertyPath: m_Name
       value: ForestEmptyCube (26)
@@ -3168,6 +3280,10 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3117095148295561308, guid: ab34e4c350b5b634e944d18ce310ec3b, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: b2ddee070f397bf4498a1cdf3ccc577b, type: 2}
     - target: {fileID: 3710670912749704320, guid: ab34e4c350b5b634e944d18ce310ec3b, type: 3}
       propertyPath: m_Name
       value: ForestEmptyCube (9)
@@ -3353,6 +3469,10 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3117095148295561308, guid: ab34e4c350b5b634e944d18ce310ec3b, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: b2ddee070f397bf4498a1cdf3ccc577b, type: 2}
     - target: {fileID: 3710670912749704320, guid: ab34e4c350b5b634e944d18ce310ec3b, type: 3}
       propertyPath: m_Name
       value: ForestEmptyCube (2)
@@ -3426,6 +3546,10 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3117095148295561308, guid: ab34e4c350b5b634e944d18ce310ec3b, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: b2ddee070f397bf4498a1cdf3ccc577b, type: 2}
     - target: {fileID: 3710670912749704320, guid: ab34e4c350b5b634e944d18ce310ec3b, type: 3}
       propertyPath: m_Name
       value: ForestEmptyCube (7)
@@ -3503,6 +3627,10 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3117095148295561308, guid: ab34e4c350b5b634e944d18ce310ec3b, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: b2ddee070f397bf4498a1cdf3ccc577b, type: 2}
     - target: {fileID: 3710670912749704320, guid: ab34e4c350b5b634e944d18ce310ec3b, type: 3}
       propertyPath: m_Name
       value: ForestEmptyCube (24)
@@ -3564,6 +3692,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3294657993448036322, guid: deb2a7132a29f404cb23a1820ed42cc4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: b2ddee070f397bf4498a1cdf3ccc577b, type: 2}
     - target: {fileID: 3856259895457030974, guid: deb2a7132a29f404cb23a1820ed42cc4, type: 3}
       propertyPath: m_Name
       value: ForestFire
@@ -3633,6 +3765,10 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3117095148295561308, guid: ab34e4c350b5b634e944d18ce310ec3b, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: b2ddee070f397bf4498a1cdf3ccc577b, type: 2}
     - target: {fileID: 3710670912749704320, guid: ab34e4c350b5b634e944d18ce310ec3b, type: 3}
       propertyPath: m_Name
       value: ForestEmptyCube (11)
@@ -3643,6 +3779,67 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ab34e4c350b5b634e944d18ce310ec3b, type: 3}
+--- !u!1001 &2095855357
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1001276946270925631, guid: 7d1fa95dc6661a44a80d774bdf1b74f5, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: b2ddee070f397bf4498a1cdf3ccc577b, type: 2}
+    - target: {fileID: 1574454606070941667, guid: 7d1fa95dc6661a44a80d774bdf1b74f5, type: 3}
+      propertyPath: m_Name
+      value: ForestTree_01 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2558835995030124016, guid: 7d1fa95dc6661a44a80d774bdf1b74f5, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2558835995030124016, guid: 7d1fa95dc6661a44a80d774bdf1b74f5, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2558835995030124016, guid: 7d1fa95dc6661a44a80d774bdf1b74f5, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2558835995030124016, guid: 7d1fa95dc6661a44a80d774bdf1b74f5, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2558835995030124016, guid: 7d1fa95dc6661a44a80d774bdf1b74f5, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2558835995030124016, guid: 7d1fa95dc6661a44a80d774bdf1b74f5, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2558835995030124016, guid: 7d1fa95dc6661a44a80d774bdf1b74f5, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2558835995030124016, guid: 7d1fa95dc6661a44a80d774bdf1b74f5, type: 3}
+      propertyPath: m_RootOrder
+      value: 11
+      objectReference: {fileID: 0}
+    - target: {fileID: 2558835995030124016, guid: 7d1fa95dc6661a44a80d774bdf1b74f5, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2558835995030124016, guid: 7d1fa95dc6661a44a80d774bdf1b74f5, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2558835995030124016, guid: 7d1fa95dc6661a44a80d774bdf1b74f5, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7d1fa95dc6661a44a80d774bdf1b74f5, type: 3}
 --- !u!1001 &2106785793
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3710,6 +3907,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestCabin
       objectReference: {fileID: 0}
+    - target: {fileID: 3522793590512662253, guid: 2c6139628bf17834f84d427befedb9f0, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: b2ddee070f397bf4498a1cdf3ccc577b, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2c6139628bf17834f84d427befedb9f0, type: 3}
 --- !u!4 &2106785794 stripped
@@ -3798,5 +3999,9 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 8620622918866518418, guid: 142cea21c10069246af7726ef38253b3, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: b2ddee070f397bf4498a1cdf3ccc577b, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 142cea21c10069246af7726ef38253b3, type: 3}
